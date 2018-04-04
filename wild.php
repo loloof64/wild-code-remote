@@ -1,0 +1,1 @@
+<?php Faux script php ?>
